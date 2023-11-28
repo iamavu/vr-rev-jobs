@@ -235,6 +235,12 @@
    </td>
   </tr>
   <tr>
+   <td>Safateam
+   </td>
+   <td><a href="https://www.safateam.com/">https://www.safateam.com/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Secfence
    </td>
    <td><a href="https://www.secfence.com/">https://www.secfence.com/</a>
@@ -277,6 +283,7 @@
    </td>
   </tr>
 </table>
+
 
 _feel free to send PR to add more to the list_
 
