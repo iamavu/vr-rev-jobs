@@ -193,6 +193,12 @@
    </td>
   </tr>
   <tr>
+   <td>Nvidia (Offensive Security Research / OSR)
+   </td>
+   <td><a href="https://www.nvidia.com/en-us/about-nvidia/careers/">https://www.nvidia.com/en-us/about-nvidia/careers/</a>
+   </td>
+  </tr>
+  <tr>
    <td>PixiePointSecurity
    </td>
    <td><a href="https://www.pixiepointsecurity.com/">https://www.pixiepointsecurity.com/</a>
@@ -235,6 +241,12 @@
    </td>
   </tr>
   <tr>
+   <td>Synacktiv
+   </td>
+   <td><a href="https://www.synacktiv.com/en/join-us">https://www.synacktiv.com/en/join-us</a>
+   </td>
+  </tr>
+  <tr>
    <td>Trail of Bits
    </td>
    <td><a href="https://www.trailofbits.com/">https://www.trailofbits.com/</a>
@@ -265,7 +277,6 @@
    </td>
   </tr>
 </table>
-
 
 _feel free to send PR to add more to the list_
 
