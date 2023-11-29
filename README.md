@@ -121,12 +121,6 @@
    </td>
   </tr>
   <tr>
-   <td>GCHQ
-   </td>
-   <td><a href="https://www.gchq.gov.uk/section/careers/">https://www.gchq.gov.uk/section/careers/</a>
-   </td>
-  </tr>
-  <tr>
    <td>HMGCC
    </td>
    <td><a href="https://www.hmgcc.gov.uk/apply/">https://www.hmgcc.gov.uk/apply/</a>
@@ -160,12 +154,6 @@
    <td>MagnetForensics (Formerly Grayshift)
    </td>
    <td><a href="https://www.magnetforensics.com/">https://www.magnetforensics.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>MI5
-   </td>
-   <td><a href="https://www.mi5.gov.uk/careers/">https://www.mi5.gov.uk/careers/</a>
    </td>
   </tr>
   <tr>
