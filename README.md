@@ -193,6 +193,12 @@
    </td>
   </tr>
   <tr>
+   <td>PKSecurity
+   </td>
+   <td><a href="https://pksecurity.io/">https://pksecurity.io/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Praetorian
    </td>
    <td><a href="https://www.praetorian.com/">https://www.praetorian.com/</a>
@@ -235,6 +241,12 @@
    </td>
   </tr>
   <tr>
+   <td>SSD-Labs
+   </td>
+   <td><a href="https://ssd-labs.com/">https://ssd-labs.com/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Synacktiv
    </td>
    <td><a href="https://www.synacktiv.com/en/join-us">https://www.synacktiv.com/en/join-us</a>
@@ -262,6 +274,12 @@
    <td>Vigilant Labs
    </td>
    <td><a href="https://www.vigilantlabs.com/">https://www.vigilantlabs.com/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Zellic
+   </td>
+   <td><a href="https://www.zellic.io/">https://www.zellic.io/</a>
    </td>
   </tr>
   <tr>
