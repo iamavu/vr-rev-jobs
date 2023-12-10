@@ -37,6 +37,12 @@
    </td>
   </tr>
   <tr>
+   <td>Battelle
+   </td>
+   <td><a href="https://jobs.battelle.org/us/en/cyber">https://jobs.battelle.org/us/en/cyber</a>
+   </td>
+  </tr>
+  <tr>
    <td>BinaryGecko
    </td>
    <td><a href="https://binarygecko.com/">https://binarygecko.com/</a>
@@ -52,6 +58,12 @@
    <td>Celebrite
    </td>
    <td><a href="https://cellebrite.com/en/home/">https://cellebrite.com/en/home/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Census
+   </td>
+   <td><a href="https://census-labs.com/openings/">https://census-labs.com/openings/</a>
    </td>
   </tr>
   <tr>
@@ -205,6 +217,18 @@
    </td>
   </tr>
   <tr>
+   <td>Qualys
+   </td>
+   <td><a href="https://www.qualys.com/careers/">https://www.qualys.com/careers/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Quarkslab
+   </td>
+   <td><a href="https://www.quarkslab.com/careers/">https://www.quarkslab.com/careers/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Raytheon
    </td>
    <td><a href="https://careers.rtx.com/">https://careers.rtx.com/</a>
@@ -244,6 +268,12 @@
    <td>SSD-Labs
    </td>
    <td><a href="https://ssd-labs.com/">https://ssd-labs.com/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>STAR Labs
+   </td>
+   <td><a href="https://starlabs.sg/">https://starlabs.sg/</a>
    </td>
   </tr>
   <tr>
