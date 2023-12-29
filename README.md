@@ -55,9 +55,9 @@
    </td>
   </tr>
   <tr>
-   <td>Celebrite
+   <td>Cellebrite
    </td>
-   <td><a href="https://cellebrite.com/en/home/">https://cellebrite.com/en/home/</a>
+   <td>https://cellebrite.com/en/about/careers/positions/
    </td>
   </tr>
   <tr>
