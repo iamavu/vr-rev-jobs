@@ -37,12 +37,6 @@
    </td>
   </tr>
   <tr>
-   <td>Battelle
-   </td>
-   <td><a href="https://jobs.battelle.org/us/en/cyber">https://jobs.battelle.org/us/en/cyber</a>
-   </td>
-  </tr>
-  <tr>
    <td>BinaryGecko
    </td>
    <td><a href="https://binarygecko.com/">https://binarygecko.com/</a>
@@ -55,15 +49,9 @@
    </td>
   </tr>
   <tr>
-   <td>Cellebrite
+   <td>Celebrite
    </td>
-   <td>https://cellebrite.com/en/about/careers/positions/
-   </td>
-  </tr>
-  <tr>
-   <td>Census
-   </td>
-   <td><a href="https://census-labs.com/openings/">https://census-labs.com/openings/</a>
+   <td><a href="https://cellebrite.com/en/home/">https://cellebrite.com/en/home/</a>
    </td>
   </tr>
   <tr>
@@ -199,6 +187,12 @@
    </td>
   </tr>
   <tr>
+   <td>Parsons
+   </td>
+   <td><a href="https://www.parsons.com/careers/">https://www.parsons.com/careers/</a>
+   </td>
+  </tr>
+  <tr>
    <td>PixiePointSecurity
    </td>
    <td><a href="https://www.pixiepointsecurity.com/">https://www.pixiepointsecurity.com/</a>
@@ -214,18 +208,6 @@
    <td>Praetorian
    </td>
    <td><a href="https://www.praetorian.com/">https://www.praetorian.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Qualys
-   </td>
-   <td><a href="https://www.qualys.com/careers/">https://www.qualys.com/careers/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Quarkslab
-   </td>
-   <td><a href="https://www.quarkslab.com/careers/">https://www.quarkslab.com/careers/</a>
    </td>
   </tr>
   <tr>
@@ -265,15 +247,15 @@
    </td>
   </tr>
   <tr>
-   <td>SSD-Labs
+   <td>Shield
    </td>
-   <td><a href="https://ssd-labs.com/">https://ssd-labs.com/</a>
+   <td><a href="https://shield.com/careers">https://shield.com/careers</a>
    </td>
   </tr>
   <tr>
-   <td>STAR Labs
+   <td>SSD-Labs
    </td>
-   <td><a href="https://starlabs.sg/">https://starlabs.sg/</a>
+   <td><a href="https://ssd-labs.com/">https://ssd-labs.com/</a>
    </td>
   </tr>
   <tr>
@@ -292,6 +274,12 @@
    <td>Trenchant Labs
    </td>
    <td><a href="https://trenchant.io/">https://trenchant.io/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>TwoSixTech
+   </td>
+   <td><a href="https://twosixtech.com/careers/">https://twosixtech.com/careers/</a>
    </td>
   </tr>
   <tr>
@@ -319,7 +307,6 @@
    </td>
   </tr>
 </table>
-
 
 _feel free to send PR to add more to the list_
 
