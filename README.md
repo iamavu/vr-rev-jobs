@@ -121,12 +121,6 @@
    </td>
   </tr>
   <tr>
-   <td>HMGCC
-   </td>
-   <td><a href="https://www.hmgcc.gov.uk/apply/">https://www.hmgcc.gov.uk/apply/</a>
-   </td>
-  </tr>
-  <tr>
    <td>Intel (STORM)
    </td>
    <td><a href="https://jobs.intel.com/en">https://jobs.intel.com/en</a>
