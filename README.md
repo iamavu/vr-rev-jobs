@@ -253,6 +253,12 @@
    </td>
   </tr>
   <tr>
+   <td>STR
+   </td>
+   <td><a href="https://str.us/careers/">https://str.us/careers/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Synacktiv
    </td>
    <td><a href="https://www.synacktiv.com/en/join-us">https://www.synacktiv.com/en/join-us</a>
