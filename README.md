@@ -37,6 +37,12 @@
    </td>
   </tr>
   <tr>
+    <td>Battelle
+   </td>
+   <td><a href="https://www.battelle.org/">https://www.battelle.org/</a>
+   </td>
+  </tr>
+  <tr>
    <td>BinaryGecko
    </td>
    <td><a href="https://binarygecko.com/">https://binarygecko.com/</a>
@@ -46,6 +52,12 @@
    <td>Blue-Frost Security
    </td>
    <td><a href="https://www.bluefrostsecurity.de/en/company/careers/">https://www.bluefrostsecurity.de/en/company/careers/</a>
+   </td>
+  </tr>
+  <tr>
+    <td>Caesar Creek Software
+   </td>
+   <td><a href="https://www.cc-sw.com/">https://www.cc-sw.com/</a>
    </td>
   </tr>
   <tr>
