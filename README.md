@@ -133,6 +133,12 @@
    </td>
   </tr>
   <tr>
+   <td>iCR
+   </td>
+   <td><a href="https://icr-team.com/">https://icr-team.com/</a>
+   </td>
+  </tr>
+  <tr>
    <td>Intel (STORM)
    </td>
    <td><a href="https://jobs.intel.com/en">https://jobs.intel.com/en</a>
@@ -156,10 +162,21 @@
    <td><a href="https://www.kududyn.com/">https://www.kududyn.com/</a>
    </td>
   </tr>
+  <td>Leidos
+   </td>
+   <td><a href="https://careers.leidos.com/">https://careers.leidos.com/</a>
+   </td>
+  </tr>
   <tr>
    <td>MagnetForensics (Formerly Grayshift)
    </td>
    <td><a href="https://www.magnetforensics.com/">https://www.magnetforensics.com/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>ManTech
+   </td>
+   <td><a href="https://mantech.dejobs.org/">https://mantech.dejobs.org/</a>
    </td>
   </tr>
   <tr>
@@ -214,6 +231,12 @@
    <td>Praetorian
    </td>
    <td><a href="https://www.praetorian.com/">https://www.praetorian.com/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Radiance Technologies
+   </td>
+   <td><a href="https://www.radiancetech.com/careers/">https://www.radiancetech.com/careers/</a>
    </td>
   </tr>
   <tr>
