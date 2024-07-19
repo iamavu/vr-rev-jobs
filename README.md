@@ -18,7 +18,6 @@
    <td><a href="https://jobs.apple.com/">https://jobs.apple.com/</a>
    </td>
   </tr>
-  <tr>
    <td>Atredis
    </td>
    <td><a href="https://www.atredis.com/careers">https://www.atredis.com/careers</a>
@@ -114,6 +113,13 @@
    <td><a href="https://dfsec.com/">https://dfsec.com/</a>
    </td>
   </tr>
+  <tr>
+   <td>Ebryx
+   </td>
+   <td><a href="https://www.ebryx.com/">https://www.ebryx.com/</a>
+   </td>
+  </tr>
+  <tr>
   <tr>
    <td>Exodus Intelligence
    </td>
