@@ -115,6 +115,13 @@
    </td>
   </tr>
   <tr>
+   <td>Ebryx
+   </td>
+   <td><a href="https://www.ebryx.com/">https://www.ebryx.com/</a>
+   </td>
+  </tr>
+  <tr>
+  <tr>
    <td>Exodus Intelligence
    </td>
    <td><a href="https://exodusintel.com/">https://exodusintel.com/</a>
