@@ -170,6 +170,12 @@
    </td>
   </tr>
   <tr>
+    <tr>
+   <td>John Hopkins University Applied Physics Laboratory
+   </td>
+   <td><a href="https://www.jhuapl.edu/careers">https://www.jhuapl.edu/careers</a>
+   </td>
+  </tr>
    <td>Kudu Dynamics
    </td>
    <td><a href="https://www.kududyn.com/">https://www.kududyn.com/</a>
@@ -247,6 +253,11 @@
    </td>
   </tr>
   <tr>
+   <td>Peraton
+   </td>
+   <td><a href="https://www.careers.peraton.com/">https://www.careers.peraton.com//</a>
+   </td>
+  <tr>
    <td>Radiance Technologies
    </td>
    <td><a href="https://www.radiancetech.com/careers/">https://www.radiancetech.com/careers/</a>
@@ -307,6 +318,11 @@
    </td>
   </tr>
   <tr>
+   <td>Steely
+   </td>
+   <td><a href="https://www.steely.cc/careers">https://www.steely.cc/careers</a>
+   </td>
+  <tr>
    <td>Synacktiv
    </td>
    <td><a href="https://www.synacktiv.com/en/join-us">https://www.synacktiv.com/en/join-us</a>
@@ -316,6 +332,12 @@
    <td>Trail of Bits
    </td>
    <td><a href="https://www.trailofbits.com/">https://www.trailofbits.com/</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Trend Micro
+   </td>
+   <td><a href="https://www.trendmicro.com/en_in/about/careers.html/">https://www.trendmicro.com/en_in/about/careers.html</a>
    </td>
   </tr>
   <tr>
