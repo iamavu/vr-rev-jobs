@@ -255,7 +255,7 @@
   <tr>
    <td>Peraton
    </td>
-   <td><a href="https://www.careers.peraton.com/">https://www.careers.peraton.com//</a>
+   <td><a href="https://www.careers.peraton.com/">https://www.careers.peraton.com/</a>
    </td>
   <tr>
    <td>Radiance Technologies
@@ -337,7 +337,7 @@
   <tr>
    <td>Trend Micro
    </td>
-   <td><a href="https://www.trendmicro.com/en_in/about/careers.html/">https://www.trendmicro.com/en_in/about/careers.html</a>
+   <td><a href="https://www.trendmicro.com/en/about/careers.html/">https://www.trendmicro.com/en/about/careers.html</a>
    </td>
   </tr>
   <tr>
