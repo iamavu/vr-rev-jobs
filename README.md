@@ -181,6 +181,12 @@
    <td><a href="https://www.kududyn.com/">https://www.kududyn.com/</a>
    </td>
   </tr>
+  <td>L3harris
+   </td>
+   <td><a href="https://www.l3harris.com">https://www.l3harris.com</a>
+   </td>
+  </tr>
+  <tr>
   <td>Leidos
    </td>
    <td><a href="https://careers.leidos.com/">https://careers.leidos.com/</a>
@@ -199,6 +205,11 @@
    </td>
   </tr>
   <tr>
+   <td>Margin Research
+   </td>
+   <td><a href="https://margin.re/">https://margin.re/</a>
+   </td>
+  </tr>
    <td>Microsoft (MORSE, MSRC)
    </td>
    <td><a href="https://jobs.careers.microsoft.com/">https://jobs.careers.microsoft.com/</a>
@@ -210,6 +221,11 @@
    <td><a href="https://www.msab.com/">https://www.msab.com/</a>
    </td>
   </tr>
+  <tr>
+   <td>National Physical Laboratory
+   </td>
+   <td><a href="https://www.npl.co.uk/careers">https://www.npl.co.uk/careers</a>
+   </td>
   <tr>
    <td>NCC
    </td>
