@@ -2,6 +2,7 @@
 | Name | Link |
 |---|---|
 | 8kSec | [https://8ksec.io/careers/][8ksec] |
+| Any.Run | [https://any.run/] |
 | Apple (SEAR) | [https://jobs.apple.com/][apple] |
 | Anavation | [https://anavationllc.com/careers/][anavation] |
 | Atredis | [https://www.atredis.com/careers][atredis] |
@@ -30,17 +31,20 @@
 | Foundry Zero | [https://foundryzero.co.uk/][foundry-zero] |
 | Galois | [https://galois.com/careers/][galois] |
 | Gormat | [https://gormat.net/careers][gormat] |
+| Hex-Rays | [https://hex-rays.com/careers][hex-rays] |
 | iCR | [https://icr-team.com/][icr] |
 | Intel (STORM) | [https://jobs.intel.com/en][intel] |
 | Interrupt Labs | [https://www.interruptlabs.co.uk/][interrupt-labs] |
 | Interclypse | [https://interclypse.com/careers][interclypse] |
 | IOactive | [https://ioactive.com/careers/][ioactive] |
+| JOESecurity | [https://www.joesecurity.org/joe-security-hiring]
 | John Hopkins University Applied Physics Laboratory | [https://www.jhuapl.edu/careers][jhu-apl] |
 | KBR | [https://careers.kbr.com/us/en][kbr] |
 | Kudu Dynamics | [https://www.kududyn.com/][kudu-dynamics] |
 | L3harris | [https://www.l3harris.com][l3harris] |
 | Leidos | [https://careers.leidos.com/][leidos] |
 | MagnetForensics (Formerly Grayshift) | [https://www.magnetforensics.com/][magnetforensics] |
+| MalwareBytes | [https://www.malwarebytes.com/] |
 | ManTech | [https://mantech.dejobs.org/][mantech] |
 | Margin Research | [https://margin.re/][margin-research] |
 | Microsoft (MORSE, MSRC) | [https://jobs.careers.microsoft.com/][microsoft] |
