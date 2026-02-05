@@ -24,9 +24,11 @@
 | CoreTech Security | [https://www.coretechsec.com/][coretech] |
 | Cromulence | [https://cromulence.com/careers/][cromulence] |
 | CrowdStrike | [https://www.crowdstrike.com/careers/][crowdstrike] |
+| CrystalPeakSecurity | [https://crystalpeaksecurity.com/][crystalpeaksecurity] |
 | DFSec  | [https://dfsec.com/][dfsec] |
 | Ebryx | [https://www.ebryx.com/][ebryx] |
 | Exodus Intelligence | [https://exodusintel.com/][exodus] |
+| Epsilon Sec | [https://www.epsilon-sec.com/careers][epsilon-sec]
 | Foundry Zero | [https://foundryzero.co.uk/][foundry-zero] |
 | Galois | [https://galois.com/careers/][galois] |
 | Gormat | [https://gormat.net/careers][gormat] |
@@ -100,9 +102,11 @@
 [coretech]: https://www.coretechsec.com/
 [cromulence]: https://cromulence.com/careers/
 [crowdstrike]: https://www.crowdstrike.com/careers/
+[crystalpeaksecurity]: https://crystalpeaksecurity.com/
 [dfsec]: https://dfsec.com/
 [ebryx]: https://www.ebryx.com/
 [exodus]: https://exodusintel.com/
+[epsilon-sec]: https://www.epsilon-sec.com/careers
 [foundry-zero]: https://foundryzero.co.uk/
 [galois]: https://galois.com/careers/
 [gormat]: https://gormat.net/careers
