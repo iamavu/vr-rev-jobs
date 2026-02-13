@@ -52,6 +52,7 @@
 | Northrop Grumman | [https://www.northropgrumman.com/][northrop] |
 | Nvidia (Offensive Security Research / OSR) | [https://www.nvidia.com/en-us/about-nvidia/careers/][nvidia-osr] |
 | Parsons | [https://www.parsons.com/careers/][parsons] |
+| Paradigm Shift | [https://ps.tc/pages/careers.html][paradigm-shift] |
 | PixiePointSecurity | [https://www.pixiepointsecurity.com/][pixiepoint] |
 | PKSecurity | [https://pksecurity.io/][pksecurity] |
 | Praetorian | [https://www.praetorian.com/][praetorian] |
@@ -130,6 +131,7 @@
 [northrop]: https://www.northropgrumman.com/
 [nvidia-osr]: https://www.nvidia.com/en-us/about-nvidia/careers/
 [parsons]: https://www.parsons.com/careers/
+[paradigm-shift]: https://ps.tc/pages/careers.html
 [pixiepoint]: https://www.pixiepointsecurity.com/
 [pksecurity]: https://pksecurity.io/
 [praetorian]: https://www.praetorian.com/
@@ -160,7 +162,7 @@
 
 _feel free to send PR to add more to the list_
 
-**_note - the list is in alphabetical order_**
+
 
 ## contributers 
 - roddux ( [x](https://twitter.com/roddux) / [github](https://github.com/roddux) )
