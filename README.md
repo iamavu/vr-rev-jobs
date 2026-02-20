@@ -9,7 +9,6 @@
 | BAE | [https://cybercareers.baesystems.com/][bae] |
 | Battelle | [https://www.battelle.org/][battelle] |
 | BinaryGecko | [https://binarygecko.com/][binarygecko] |
-| Blue-Frost Security | [https://www.bluefrostsecurity.de/en/company/careers/][blue-frost] |
 | Boozallen | [https://careers.boozallen.com/][boozallen] |
 | BlueHalo | [https://bluehalo.com/careers/][bluehalo] |
 | Caesar Creek Software | [https://www.cc-sw.com/][caesar-creek] |
@@ -88,7 +87,6 @@
 [bae]: https://cybercareers.baesystems.com/
 [battelle]: https://www.battelle.org/
 [binarygecko]: https://binarygecko.com/
-[blue-frost]: https://www.bluefrostsecurity.de/en/company/careers/
 [boozallen]: https://careers.boozallen.com/
 [bluehalo]: https://bluehalo.com/careers/
 [caesar-creek]: https://www.cc-sw.com/
