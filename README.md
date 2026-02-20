@@ -26,7 +26,7 @@
 | CrystalPeakSecurity | [https://crystalpeaksecurity.com/][crystalpeaksecurity] |
 | DFSec  | [https://dfsec.com/][dfsec] |
 | Ebryx | [https://www.ebryx.com/][ebryx] |
-| Exodus Intelligence | [https://exodusintel.com/][exodus] |
+| Exodus Intelligence | [https://exodusintel.com/careers.html][exodus] |
 | Epsilon Sec | [https://www.epsilon-sec.com/careers][epsilon-sec]
 | Foundry Zero | [https://foundryzero.co.uk/][foundry-zero] |
 | Galois | [https://galois.com/careers/][galois] |
@@ -104,7 +104,7 @@
 [crystalpeaksecurity]: https://crystalpeaksecurity.com/
 [dfsec]: https://dfsec.com/
 [ebryx]: https://www.ebryx.com/
-[exodus]: https://exodusintel.com/
+[exodus]: https://exodusintel.com/careers.html
 [epsilon-sec]: https://www.epsilon-sec.com/careers
 [foundry-zero]: https://foundryzero.co.uk/
 [galois]: https://galois.com/careers/
