@@ -56,6 +56,7 @@
 | PKSecurity | [https://pksecurity.io/][pksecurity] |
 | Praetorian | [https://www.praetorian.com/][praetorian] |
 | Peraton | [https://www.careers.peraton.com/][peraton] |
+| QuarksLab | [https://www.quarkslab.com/careers-jobs/] [quarkslab] |
 | Radiance Technologies | [https://www.radiancetech.com/careers/][radiance-tech] |
 | Raytheon | [https://careers.rtx.com/][raytheon] |
 | Research Innovations | [https://www.researchinnovations.com/][research-innovations] |
@@ -134,6 +135,7 @@
 [pksecurity]: https://pksecurity.io/
 [praetorian]: https://www.praetorian.com/
 [peraton]: https://www.careers.peraton.com/
+[quarkslab]: https://www.quarkslab.com/careers-jobs/
 [radiance-tech]: https://www.radiancetech.com/careers/
 [raytheon]: https://careers.rtx.com/
 [research-innovations]: https://www.researchinnovations.com/
