@@ -9,12 +9,12 @@
 | BAE | [https://cybercareers.baesystems.com/][bae] |
 | Battelle | [https://www.battelle.org/][battelle] |
 | BinaryGecko | [https://binarygecko.com/][binarygecko] |
-| Boozallen | [https://careers.boozallen.com/][boozallen] |
+| Booz Allen | [https://careers.boozallen.com/][boozallen] |
 | BlueHalo | [https://bluehalo.com/careers/][bluehalo] |
 | Caesar Creek Software | [https://www.cc-sw.com/][caesar-creek] |
 | CACI | [https://careers.caci.com/global/en][caci] |
 | Cipher Tech Solutions | [https://www.ciphertechsolutions.com/careers/][cipher-tech] |
-| Cellebrite | [https://cellebrite.com/en/home/][celebrite] |
+| Cellebrite | [https://cellebrite.com/en/home/][cellebrite] |
 | Chameleon Consulting Group | [https://chameleoncg.com/careers/][chameleon-cg] |
 | Cisco Talos | [https://talosintelligence.com/][cisco-talos] |
 | ClevCode | [https://clevcode.org/][clevcode] |
@@ -27,7 +27,7 @@
 | DFSec  | [https://dfsec.com/][dfsec] |
 | Ebryx | [https://www.ebryx.com/][ebryx] |
 | Exodus Intelligence | [https://exodusintel.com/careers.html][exodus] |
-| Epsilon Sec | [https://www.epsilon-sec.com/careers][epsilon-sec]
+| Epsilon Sec | [https://www.epsilon-sec.com/careers][epsilon-sec] |
 | Foundry Zero | [https://foundryzero.co.uk/][foundry-zero] |
 | Galois | [https://galois.com/careers/][galois] |
 | Gormat | [https://gormat.net/careers][gormat] |
@@ -35,11 +35,11 @@
 | Intel (STORM) | [https://jobs.intel.com/en][intel] |
 | Interrupt Labs | [https://www.interruptlabs.co.uk/][interrupt-labs] |
 | Interclypse | [https://interclypse.com/careers][interclypse] |
-| IOactive | [https://ioactive.com/careers/][ioactive] |
-| John Hopkins University Applied Physics Laboratory | [https://www.jhuapl.edu/careers][jhu-apl] |
+| IOActive | [https://ioactive.com/careers/][ioactive] |
+| Johns Hopkins University Applied Physics Laboratory | [https://www.jhuapl.edu/careers][jhu-apl] |
 | KBR | [https://careers.kbr.com/us/en][kbr] |
 | Kudu Dynamics | [https://www.kududyn.com/][kudu-dynamics] |
-| L3harris | [https://www.l3harris.com][l3harris] |
+| L3Harris | [https://www.l3harris.com][l3harris] |
 | Leidos | [https://careers.leidos.com/][leidos] |
 | MagnetForensics (Formerly Grayshift) | [https://www.magnetforensics.com/][magnetforensics] |
 | ManTech | [https://mantech.dejobs.org/][mantech] |
@@ -75,10 +75,27 @@
 | Trend Micro | [https://www.trendmicro.com/en/about/careers.html][trend-micro] |
 | Trenchant Labs | [https://trenchant.io/][trenchant] |
 | TwoSixTech | [https://twosixtech.com/careers/][twosixtech] |
-| Uptcys | [https://www.uptycs.com/][uptycs] |
+| Uptycs | [https://www.uptycs.com/][uptycs] |
 | Vigilant Labs | [https://www.vigilantlabs.com/][vigilant-labs] |
 | Zellic | [https://www.zellic.io/][zellic] |
-| ZeTier | [https://www.zetier.com/][zetier] |
+| Zetier | [https://www.zetier.com/][zetier] |
+| SentinelOne (SentinelLabs) | [https://www.sentinelone.com/jobs/][sentinelone] |
+| Google (Mandiant FLARE, Security Research) | [https://www.google.com/about/careers/applications/jobs/results/?q=reverse%20engineer][google-mandiant-flare] |
+| Google Project Zero | [https://projectzero.google/][google-project-zero] |
+| Zimperium | [https://zimperium.com/company/careers][zimperium] |
+| Arm | [https://careers.arm.com/][arm] |
+| Elastic Security Labs | [https://www.elastic.co/careers/][elastic-security-labs] |
+| Check Point Research | [https://careers.checkpoint.com/jobs][checkpoint-research] |
+| Red Balloon Security | [https://redballoonsecurity.com/careers/][red-balloon] |
+| Palo Alto Networks (Unit 42) | [https://jobs.paloaltonetworks.com/en/search-jobs/unit%2042/][unit42] |
+| Riscure (Keysight) | [https://jobs.keysight.com/external][riscure] |
+| Hex-Rays | [https://hex-rays.com/careers][hex-rays] |
+| Sophos X-Ops | [https://www.sophos.com/en-us/company/careers][sophos] |
+| Qualcomm | [https://careers.qualcomm.com/careers][qualcomm] |
+| Crowdfense | [https://www.crowdfense.com/careers/][crowdfense] |
+| ESET | [https://www.eset.com/int/about/careers/][eset] |
+| Eclypsium | [https://eclypsium.com/company/careers/][eclypsium] |
+| Binarly | [https://ats.rippling.com/binarly/jobs][binarly] |
 
 [8ksec]: http://8ksec.io/careers/
 [apple]: https://jobs.apple.com/
@@ -93,7 +110,7 @@
 [caesar-creek]: https://www.cc-sw.com/
 [caci]: https://careers.caci.com/global/en
 [cipher-tech]: https://www.ciphertechsolutions.com/careers/
-[celebrite]: https://cellebrite.com/en/home/
+[cellebrite]: https://cellebrite.com/en/home/
 [chameleon-cg]: https://chameleoncg.com/careers/
 [cisco-talos]: https://talosintelligence.com/
 [clevcode]: https://clevcode.org/
@@ -158,14 +175,39 @@
 [vigilant-labs]: https://www.vigilantlabs.com/
 [zellic]: https://www.zellic.io/
 [zetier]: https://www.zetier.com/
+[sentinelone]: https://www.sentinelone.com/jobs/
+[google-mandiant-flare]: https://www.google.com/about/careers/applications/jobs/results/?q=reverse%20engineer
+[google-project-zero]: https://projectzero.google/
+[zimperium]: https://zimperium.com/company/careers
+[arm]: https://careers.arm.com/
+[elastic-security-labs]: https://www.elastic.co/careers/
+[checkpoint-research]: https://careers.checkpoint.com/jobs
+[red-balloon]: https://redballoonsecurity.com/careers/
+[unit42]: https://jobs.paloaltonetworks.com/en/search-jobs/unit%2042/
+[riscure]: https://jobs.keysight.com/external
+[hex-rays]: https://hex-rays.com/careers
+[sophos]: https://www.sophos.com/en-us/company/careers
+[qualcomm]: https://careers.qualcomm.com/careers
+[crowdfense]: https://www.crowdfense.com/careers/
+[eset]: https://www.eset.com/int/about/careers/
+[eclypsium]: https://eclypsium.com/company/careers/
+[binarly]: https://ats.rippling.com/binarly/jobs
 
 
 _feel free to send PR to add more to the list_
 
 
 
-## contributers 
+## contributors 
 - roddux ( [x](https://twitter.com/roddux) / [github](https://github.com/roddux) )
+- 0xjunkcod3 ( [github](https://github.com/0xjunkcod3) )
+- 1ikeadragon ( [github](https://github.com/1ikeadragon) )
+- CombatWorthyWombat ( [github](https://github.com/CombatWorthyWombat) )
+- dilldylanpickle ( [github](https://github.com/dilldylanpickle) )
+- rchildre3 ( [github](https://github.com/rchildre3) )
+- guyru ( [github](https://github.com/guyru) )
+- tin-z ( [github](https://github.com/tin-z) )
+- nielandvoid ( [github](https://github.com/nielandvoid) / [x](https://x.com/nielandvoid) )
 
 
 
